@@ -1,0 +1,29 @@
+{
+  "v": 2,
+  "users": [
+    {
+      "email": "amucahidb@gmail.com",
+      "name": "Mücahid Bozdoğan",
+      "role": "yonetici",
+      "pub": "BNVjnadW9hUDjf4DIgNYjephI8al5Pna66rpYKZ0X+JdSrjjY/VFLYbdFWeyZvl/ITJ7MyAwr9ECb+Kr3QeLw/g=",
+      "priv": {
+        "salt": "6eUEWI+TEI8boF+tv+Rc0Q==",
+        "iv": "g2tgQe06U257LRCY",
+        "iter": 600000,
+        "data": "XA+rLiDMARdOCUQSCYVTG8P3iEVwhJMuXp4NoM52s3D3OnUZtQ1VBaBKG6uQWJa5N4u2W3zWys79exCEqg0o0WJrYBbAfqoNq3/9M/mep9jg9uNo2iZGl5K0W9ysmmMIgM7zEj68P71ljhJZo1GChIv1Yrgw4wtyuGrcZhSBqdJzkJDACfllzVKkvi7p/iwHdQX1aeoDzp+L2w=="
+      },
+      "wrap": {
+        "epk": "BHv4u/OlNUswFb4gH9J8Xy8J7e8xyvQjyk8VaXopPXUeYSl08ykd1bRLVl6E23l9KxLiFDyn5InB7WEeDgKypvs=",
+        "iv": "TPtzhITyiB438Edr",
+        "data": "+om7fZ00QYFAyhPm3ua+HZLT9hhHQn/huvpAm8y+UdgH3X9Foi97OIX1J0FypLf+"
+      },
+      "mustChange": false,
+      "created": "2026-11-05T09:52:46Z",
+      "updated": "2026-11-05T09:52:46Z"
+    }
+  ],
+  "vault": {
+    "iv": "YsU8C9GJv4fQCKys",
+    "data": "OOLbWzACHhy/3RrOam8GgxjmBjX9tLgJZeGX2DBr5z6NKVgKjRWt8UTtx45JhKDZkVR/iItSSRiclcP4nLZT5AzcYmzTSz+LdZWN3enLMZMAh1NbUwgt7LFhhbvMPzmQwXicE1dK+NPGTrWaie2FAY/uIP6gkdHWonywgSw8rmr3pdTEAUrJRiJYmDIS8iVfECUCUkydXgMu8j5I925JSVeTmoNfR9qvQgEPgWT6ep/Xrz6dA4rGNBT4dvccBlJUNNWfSv9PFfp67Qk40v1zbMSquIby5/hFwVH0lFLo9DQqHZjvJlYazst4wE7HYpZ82vq2/Wj5RUIMVxdf3JrUTLA0hG7pavE8ZBOQDIglyl61PpH5NQeE5rXuRG2EWRb7kbwolSjQpX2MkvZi6G+fJR7ldXdsDpfcVC8djzovjiLs5xxMQXrIaJQwG0wApqhEg9Uo4q3nz7mhvmqaeVOOt5cNPHefMxfGhQ=="
+  }
+}

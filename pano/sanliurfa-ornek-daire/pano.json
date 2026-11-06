@@ -1,0 +1,50 @@
+[
+ {
+  "f": "01",
+  "label": "Salon 1"
+ },
+ {
+  "f": "02",
+  "label": "Salon 2"
+ },
+ {
+  "f": "03",
+  "label": "Mutfak"
+ },
+ {
+  "f": "04",
+  "label": "Koridor"
+ },
+ {
+  "f": "05",
+  "label": "Oturma Odası"
+ },
+ {
+  "f": "06",
+  "label": "Ebeveyn Yatak Odası 1"
+ },
+ {
+  "f": "07",
+  "label": "Ebeveyn Yatak Odası 2"
+ },
+ {
+  "f": "08",
+  "label": "Genç Kız Odası"
+ },
+ {
+  "f": "09",
+  "label": "Erkek Çocuk Odası"
+ },
+ {
+  "f": "10",
+  "label": "Misafir WC"
+ },
+ {
+  "f": "11",
+  "label": "Hamam ve Sauna"
+ },
+ {
+  "f": "12",
+  "label": "Ebeveyn Banyosu"
+ }
+]

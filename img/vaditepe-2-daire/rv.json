@@ -1,0 +1,38 @@
+[
+ {
+  "f": "rv-01",
+  "label": "Salon"
+ },
+ {
+  "f": "rv-02",
+  "label": "Yemek alanı"
+ },
+ {
+  "f": "rv-03",
+  "label": "Mutfak"
+ },
+ {
+  "f": "rv-04",
+  "label": "Oturma odası"
+ },
+ {
+  "f": "rv-05",
+  "label": "Oturma odası"
+ },
+ {
+  "f": "rv-06",
+  "label": "Kız çocuk odası"
+ },
+ {
+  "f": "rv-07",
+  "label": "Kız çocuk odası"
+ },
+ {
+  "f": "rv-08",
+  "label": "Erkek çocuk odası"
+ },
+ {
+  "f": "rv-09",
+  "label": "Ortak banyo"
+ }
+]
