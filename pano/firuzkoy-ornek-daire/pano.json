@@ -1,0 +1,58 @@
+[
+ {
+  "f": "01",
+  "label": "Hol 1"
+ },
+ {
+  "f": "02",
+  "label": "Hol 2"
+ },
+ {
+  "f": "03",
+  "label": "Salon"
+ },
+ {
+  "f": "04",
+  "label": "Mutfak"
+ },
+ {
+  "f": "05",
+  "label": "Ebeveyn Yatak Odası"
+ },
+ {
+  "f": "06",
+  "label": "Giyinme Odası"
+ },
+ {
+  "f": "07",
+  "label": "Genç Odası"
+ },
+ {
+  "f": "08",
+  "label": "Erkek Çocuk Odası"
+ },
+ {
+  "f": "09",
+  "label": "Koridor 1"
+ },
+ {
+  "f": "10",
+  "label": "Koridor 2"
+ },
+ {
+  "f": "11",
+  "label": "Çatı Katı"
+ },
+ {
+  "f": "12",
+  "label": "Misafir WC"
+ },
+ {
+  "f": "13",
+  "label": "Ebeveyn Banyosu"
+ },
+ {
+  "f": "14",
+  "label": "Ortak WC"
+ }
+]

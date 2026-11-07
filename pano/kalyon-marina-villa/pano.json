@@ -1,0 +1,42 @@
+[
+ {
+  "f": "01",
+  "label": "Salon 1"
+ },
+ {
+  "f": "02",
+  "label": "Salon 2"
+ },
+ {
+  "f": "03",
+  "label": "Mutfak"
+ },
+ {
+  "f": "04",
+  "label": "Oturma Odası"
+ },
+ {
+  "f": "05",
+  "label": "Ebeveyn Yatak Odası"
+ },
+ {
+  "f": "06",
+  "label": "Erkek Çocuk Odası"
+ },
+ {
+  "f": "07",
+  "label": "Kız Çocuk Odası"
+ },
+ {
+  "f": "08",
+  "label": "Alt Kat Banyo"
+ },
+ {
+  "f": "09",
+  "label": "Üst Kat Banyo"
+ },
+ {
+  "f": "10",
+  "label": "Ebeveyn Banyosu"
+ }
+]

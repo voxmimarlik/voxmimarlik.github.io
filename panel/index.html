@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#F1E9DC">
+  <meta name="apple-mobile-web-app-title" content="VOX Panel">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>VOX Panel</title>
+  <link rel="icon" href="/assets/logo/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/assets/logo/icon-180.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://api.github.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="panel.css">
+  <script>
+    /* Panel ayarı — sunucu yok: panel doğrudan GitHub'a bağlanır.
+       users.json: şifreyle kilitli kullanıcı kayıtları (tools/panel_user.py ile eklenir). */
+    window.VOX_PANEL = { users: "users.json", live: "https://voxmimarlik.github.io" };
+  </script>
+  <script type="module" src="panel.js"></script>
+</head>
+<body>
+  <div id="app">
+    <div class="boot"><img src="/assets/logo/logo-mark.svg" alt="" width="40" height="40"><span class="eyebrow">Panel yükleniyor…</span></div>
+  </div>
+  <noscript><p class="boot">Panelin çalışması için JavaScript gerekli.</p></noscript>
+</body>
+</html>

@@ -1,0 +1,54 @@
+[
+ {
+  "f": "01",
+  "label": "Giriş Lobisi"
+ },
+ {
+  "f": "02",
+  "label": "Kat Koridoru 1"
+ },
+ {
+  "f": "03",
+  "label": "Kat Koridoru 2"
+ },
+ {
+  "f": "04",
+  "label": "Koridor 1"
+ },
+ {
+  "f": "05",
+  "label": "Koridor 2"
+ },
+ {
+  "f": "06",
+  "label": "Salon"
+ },
+ {
+  "f": "07",
+  "label": "Mutfak"
+ },
+ {
+  "f": "08",
+  "label": "Oturma Odası"
+ },
+ {
+  "f": "09",
+  "label": "Çocuk Odası"
+ },
+ {
+  "f": "10",
+  "label": "Ortak Banyo"
+ },
+ {
+  "f": "11",
+  "label": "Yatak Odası"
+ },
+ {
+  "f": "12",
+  "label": "Giyinme Odası"
+ },
+ {
+  "f": "13",
+  "label": "Ebeveyn Banyosu"
+ }
+]
